@@ -1,0 +1,41 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <g data-name="Video Plalist" fill="#000000" class="color000 svgShape">
+        <path fill="#9bc9ff" d="M56,12H3V52H61V12ZM28,22.686,41.314,32,28,41.314Z" class="color9bc9ff svgShape">
+        </path>
+        <rect width="2" height="2" x="9" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="5" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="13" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="17" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="21" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="25" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="29" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="33" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="37" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="41" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="45" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="49" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="53" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="57" y="15" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="9" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="5" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="13" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="17" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="21" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="25" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="29" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="33" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="37" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="41" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="45" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="49" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="53" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <rect width="2" height="2" x="57" y="47" fill="#1e81ce" class="color1e81ce svgShape"></rect>
+        <path fill="#1e81ce"
+            d="M61,11H57V8a1,1,0,0,0-1-1H52V4a1,1,0,0,0-1-1H13a1,1,0,0,0-1,1V7H8A1,1,0,0,0,7,8v3H3a1,1,0,0,0-1,1V52a1,1,0,0,0,1,1H61a1,1,0,0,0,1-1V12A1,1,0,0,0,61,11ZM14,5H50V7H14ZM9,9H55v2H9ZM60,51H4V13H60Z"
+            class="color1e81ce svgShape"></path>
+        <path fill="#1e81ce"
+            d="M28,42.313a1,1,0,0,1-1-1V22.687a1,1,0,0,1,1.573-.82l13.314,9.314a1,1,0,0,1,0,1.638L28.573,42.133A1,1,0,0,1,28,42.313Zm1-17.707V39.394L39.569,32Z"
+            class="color1e81ce svgShape"></path>
+    </g>
+</svg>

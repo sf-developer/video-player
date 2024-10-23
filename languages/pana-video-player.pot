@@ -1,0 +1,697 @@
+# Copyright (C) 2024 Pana Websites
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pana Video Player 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pana-video-player\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-28T23:45:46+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: pana-video-player\n"
+
+#. Plugin Name of the plugin
+#: inc/main/menu.php:43
+msgid "Pana Video Player"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://panawebsites.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Pana Video Player is a pro video player plugin for WordPress."
+msgstr ""
+
+#. Author of the plugin
+msgid "Pana Websites"
+msgstr ""
+
+#: inc/api/admin-api.php:815
+#: inc/api/admin-api.php:908
+#: inc/api/admin-api.php:951
+#: inc/api/admin-api.php:984
+#: inc/api/admin-api.php:1031
+#: inc/api/admin-api.php:1166
+#: inc/api/admin-api.php:1264
+#: inc/api/admin-api.php:1305
+#: inc/api/admin-api.php:1333
+#: inc/api/admin-api.php:1464
+#: inc/api/admin-api.php:1517
+#: inc/api/admin-api.php:1573
+#: inc/api/admin-api.php:1665
+#: inc/api/admin-api.php:1738
+#: inc/api/admin-api.php:1851
+#: inc/api/admin-api.php:1973
+#: inc/api/admin-api.php:2050
+#: inc/api/admin-api.php:2324
+#: inc/api/admin-api.php:2401
+#: inc/api/admin-api.php:2478
+#: inc/api/admin-api.php:2555
+#: inc/api/admin-api.php:2632
+#: inc/api/admin-api.php:2712
+#: inc/api/admin-api.php:2792
+#: inc/api/admin-api.php:2863
+#: inc/api/admin-api.php:2912
+#: inc/api/admin-api.php:2966
+#: inc/api/admin-api.php:3020
+#: inc/api/admin-api.php:3101
+#: inc/api/admin-api.php:3151
+#: inc/api/admin-api.php:3304
+#: inc/api/admin-api.php:3350
+#: inc/api/admin-api.php:3478
+#: inc/api/admin-api.php:3557
+#: inc/api/admin-api.php:3587
+#: inc/api/admin-api.php:3641
+#: inc/api/admin-api.php:3702
+#: inc/api/admin-api.php:3756
+#: inc/api/admin-api.php:3823
+#: inc/api/admin-api.php:3920
+#: inc/api/admin-api.php:3966
+#: inc/api/public-api.php:250
+#: inc/api/public-api.php:425
+#: inc/api/public-api.php:601
+#: inc/api/public-api.php:742
+#: inc/api/public-api.php:825
+#: inc/api/public-api.php:880
+#: inc/api/public-api.php:969
+#: inc/api/public-api.php:1180
+#: inc/api/public-api.php:1266
+msgid "Unauthorized!"
+msgstr ""
+
+#: inc/api/admin-api.php:824
+#: inc/api/admin-api.php:917
+#: inc/api/admin-api.php:960
+#: inc/api/admin-api.php:993
+#: inc/api/admin-api.php:1040
+#: inc/api/admin-api.php:1175
+#: inc/api/admin-api.php:1273
+#: inc/api/admin-api.php:1314
+#: inc/api/admin-api.php:1342
+#: inc/api/admin-api.php:1473
+#: inc/api/admin-api.php:1526
+#: inc/api/admin-api.php:1582
+#: inc/api/admin-api.php:1674
+#: inc/api/admin-api.php:1747
+#: inc/api/admin-api.php:1860
+#: inc/api/admin-api.php:1982
+#: inc/api/admin-api.php:2059
+#: inc/api/admin-api.php:2333
+#: inc/api/admin-api.php:2410
+#: inc/api/admin-api.php:2487
+#: inc/api/admin-api.php:2564
+#: inc/api/admin-api.php:2641
+#: inc/api/admin-api.php:2721
+#: inc/api/admin-api.php:2801
+#: inc/api/admin-api.php:2872
+#: inc/api/admin-api.php:2921
+#: inc/api/admin-api.php:2975
+#: inc/api/admin-api.php:3029
+#: inc/api/admin-api.php:3110
+#: inc/api/admin-api.php:3160
+#: inc/api/admin-api.php:3313
+#: inc/api/admin-api.php:3359
+#: inc/api/admin-api.php:3487
+#: inc/api/admin-api.php:3566
+#: inc/api/admin-api.php:3596
+#: inc/api/admin-api.php:3650
+#: inc/api/admin-api.php:3711
+#: inc/api/admin-api.php:3765
+#: inc/api/admin-api.php:3832
+#: inc/api/admin-api.php:3929
+#: inc/api/admin-api.php:3975
+msgid "Forbidden!"
+msgstr ""
+
+#: inc/api/admin-api.php:849
+#: inc/api/admin-api.php:3040
+#: inc/api/admin-api.php:3051
+#: inc/api/admin-api.php:3370
+#: inc/api/admin-api.php:3846
+#: inc/api/public-api.php:995
+#: inc/api/public-api.php:1036
+#: inc/api/public-api.php:1291
+msgid "Bad request!"
+msgstr ""
+
+#: inc/api/admin-api.php:884
+msgid "Options added successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:897
+#: inc/api/admin-api.php:1156
+msgid "Problem occurred on updating options"
+msgstr ""
+
+#: inc/api/admin-api.php:940
+#: inc/api/public-api.php:378
+msgid "Players retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:973
+msgid "Player options retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:1020
+msgid "Player option retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:1054
+#: inc/api/public-api.php:264
+msgid "No options found"
+msgstr ""
+
+#: inc/api/admin-api.php:1148
+msgid "Player options updated successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:1185
+msgid "No player found with this id"
+msgstr ""
+
+#: inc/api/admin-api.php:1226
+#: inc/api/admin-api.php:1239
+msgid "The player has been successfully deleted"
+msgstr ""
+
+#: inc/api/admin-api.php:1232
+msgid "The player was successfully deleted but there was a problem deleting the tag id"
+msgstr ""
+
+#: inc/api/admin-api.php:1245
+msgid "The player was successfully deleted but there was a problem deleting the videos"
+msgstr ""
+
+#: inc/api/admin-api.php:1253
+msgid "Problem occurred on deleting options"
+msgstr ""
+
+#: inc/api/admin-api.php:1292
+msgid "User data has been successfully retrieved"
+msgstr ""
+
+#: inc/api/admin-api.php:1320
+msgid "WP admin url has been successfully retrieved"
+msgstr ""
+
+#: inc/api/admin-api.php:1354
+#: inc/api/admin-api.php:1686
+#: inc/api/admin-api.php:1759
+#: inc/api/admin-api.php:1872
+#: inc/api/admin-api.php:1994
+#: inc/api/admin-api.php:2071
+#: inc/api/admin-api.php:2345
+#: inc/api/admin-api.php:2422
+#: inc/api/admin-api.php:2499
+#: inc/api/admin-api.php:2576
+#: inc/api/admin-api.php:2653
+#: inc/api/admin-api.php:2733
+#: inc/api/admin-api.php:2884
+#: inc/api/public-api.php:455
+#: inc/api/public-api.php:630
+#: inc/api/public-api.php:764
+#: inc/api/public-api.php:984
+#: inc/api/public-api.php:1196
+#: inc/api/public-api.php:1281
+msgid "No player found with this ID"
+msgstr ""
+
+#: inc/api/admin-api.php:1372
+#: inc/api/admin-api.php:1494
+#: inc/api/admin-api.php:1891
+#: inc/api/admin-api.php:2015
+#: inc/api/admin-api.php:2102
+#: inc/api/admin-api.php:2366
+#: inc/api/admin-api.php:2443
+#: inc/api/admin-api.php:2520
+#: inc/api/admin-api.php:2597
+#: inc/api/admin-api.php:2674
+#: inc/api/admin-api.php:2756
+#: inc/api/admin-api.php:3221
+#: inc/api/admin-api.php:3682
+#: inc/api/admin-api.php:3736
+#: inc/api/admin-api.php:3803
+#: inc/api/admin-api.php:3900
+#: inc/api/admin-api.php:3946
+#: inc/api/admin-api.php:3993
+#: inc/api/admin-api.php:4025
+msgid "Problem occurred on getting data from DB"
+msgstr ""
+
+#: inc/api/admin-api.php:1451
+#: inc/api/public-api.php:791
+msgid "Player statistics retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:1501
+#: inc/api/admin-api.php:1557
+#: inc/api/admin-api.php:1633
+#: inc/api/admin-api.php:1722
+#: inc/api/admin-api.php:1819
+msgid "Users statistics retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:1962
+msgid "Chart object build successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:2037
+#: inc/api/admin-api.php:2313
+#: inc/api/admin-api.php:2388
+#: inc/api/admin-api.php:2465
+#: inc/api/admin-api.php:2542
+#: inc/api/admin-api.php:2619
+#: inc/api/admin-api.php:2699
+#: inc/api/admin-api.php:2779
+msgid "Player statistic retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:2082
+msgid "No API key found to get countries statistics"
+msgstr ""
+
+#: inc/api/admin-api.php:2190
+msgid "Invalid compare parameter"
+msgstr ""
+
+#: inc/api/admin-api.php:2831
+#: inc/api/admin-api.php:3673
+msgid "Guest"
+msgstr ""
+
+#: inc/api/admin-api.php:2850
+#: inc/api/admin-api.php:2899
+msgid "Comments retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:2934
+#: inc/api/admin-api.php:2988
+msgid "Problem occurred on updating comment"
+msgstr ""
+
+#: inc/api/admin-api.php:2953
+msgid "Comment approved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:3007
+msgid "Comment rejected successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:3083
+#: inc/api/public-api.php:1077
+msgid "Problem occurred on inserting comment"
+msgstr ""
+
+#: inc/api/admin-api.php:3091
+#: inc/api/public-api.php:1146
+msgid "Comment inserted successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:3123
+msgid "Problem occurred on deleting comment"
+msgstr ""
+
+#: inc/api/admin-api.php:3138
+msgid "Comment deleted successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:3208
+msgid "No notification found"
+msgstr ""
+
+#: inc/api/admin-api.php:3235
+msgid "%s year(s) ago"
+msgstr ""
+
+#: inc/api/admin-api.php:3238
+msgid "%s month(s) ago"
+msgstr ""
+
+#: inc/api/admin-api.php:3241
+msgid "%s day(s) ago"
+msgstr ""
+
+#: inc/api/admin-api.php:3244
+msgid "%s hour(s) ago"
+msgstr ""
+
+#: inc/api/admin-api.php:3247
+msgid "%s minute(s) ago"
+msgstr ""
+
+#: inc/api/admin-api.php:3250
+msgid "Just now"
+msgstr ""
+
+#: inc/api/admin-api.php:3257
+msgid "comment"
+msgstr ""
+
+#: inc/api/admin-api.php:3260
+msgid "like"
+msgstr ""
+
+#: inc/api/admin-api.php:3263
+msgid "dislike"
+msgstr ""
+
+#: inc/api/admin-api.php:3266
+msgid "unknown"
+msgstr ""
+
+#: inc/api/admin-api.php:3277
+msgid "New %s for %s"
+msgstr ""
+
+#: inc/api/admin-api.php:3291
+msgid "Notifications retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:3333
+msgid "Problem occurred on updating notification"
+msgstr ""
+
+#: inc/api/admin-api.php:3340
+msgid "Notification updated successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:3415
+msgid "Invalid file type. You can only upload `ZIP`, `JPG`, `JPEG`, `PNG`, `GIF`, `TIFF` files."
+msgstr ""
+
+#: inc/api/admin-api.php:3424
+msgid "The file name must be less than 100 character"
+msgstr ""
+
+#: inc/api/admin-api.php:3433
+msgid "The file size must be less than 10 MB"
+msgstr ""
+
+#: inc/api/admin-api.php:3461
+msgid "Problem occurred on sendin email. You can check email log in the % path."
+msgstr ""
+
+#: inc/api/admin-api.php:3468
+msgid "Thank you for contacting us. We have received your message and will get back to you as soon as possible."
+msgstr ""
+
+#: inc/api/admin-api.php:3535
+msgid "Unable to open file!"
+msgstr ""
+
+#: inc/api/admin-api.php:3544
+msgid "Settings updated successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:3574
+msgid "Settings retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:3628
+msgid "Item features retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:3689
+#: inc/api/admin-api.php:3743
+msgid "Banned users retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:3779
+msgid "Problem occurred on deleting user from banned user table"
+msgstr ""
+
+#: inc/api/admin-api.php:3810
+msgid "User successfully deleted from banned users table"
+msgstr ""
+
+#: inc/api/admin-api.php:3871
+msgid "Problem occurred on inserting user to banned user table"
+msgstr ""
+
+#: inc/api/admin-api.php:3907
+msgid "User successfully inserted to banned user table"
+msgstr ""
+
+#: inc/api/admin-api.php:3953
+msgid "Email retrieved successfully"
+msgstr ""
+
+#: inc/api/admin-api.php:4009
+msgid "Problem occurred on deleting data from DB"
+msgstr ""
+
+#: inc/api/admin-api.php:4032
+msgid "Email deleted successfully"
+msgstr ""
+
+#: inc/api/public-api.php:487
+#: inc/api/public-api.php:1116
+msgid "Problem occurred on inserting statistic"
+msgstr ""
+
+#: inc/api/public-api.php:515
+#: inc/api/public-api.php:1138
+msgid "Problem occurred on inserting notification"
+msgstr ""
+
+#: inc/api/public-api.php:537
+msgid "Problem occurred on inserting user activity"
+msgstr ""
+
+#: inc/api/public-api.php:564
+msgid "Player statistics inserted successfully"
+msgstr ""
+
+#: inc/api/public-api.php:648
+msgid "Problem occurred on deleting statistic"
+msgstr ""
+
+#: inc/api/public-api.php:666
+msgid "Problem occurred on deleting notification"
+msgstr ""
+
+#: inc/api/public-api.php:686
+msgid "Problem occurred on deleting user activity"
+msgstr ""
+
+#: inc/api/public-api.php:712
+msgid "Player statistics deleted successfully"
+msgstr ""
+
+#: inc/api/public-api.php:835
+#: inc/api/public-api.php:845
+msgid "User is logged in"
+msgstr ""
+
+#: inc/api/public-api.php:911
+msgid "No user found with this identifier"
+msgstr ""
+
+#: inc/api/public-api.php:926
+msgid "Not banned"
+msgstr ""
+
+#: inc/api/public-api.php:934
+msgid "User with this identifer is banned!%s%s"
+msgstr ""
+
+#: inc/api/public-api.php:935
+msgid " Reason: "
+msgstr ""
+
+#: inc/api/public-api.php:936
+msgid "Banned for "
+msgstr ""
+
+#: inc/api/public-api.php:1016
+msgid "Comments are closed!"
+msgstr ""
+
+#: inc/api/public-api.php:1026
+msgid "User not logged in"
+msgstr ""
+
+#: inc/api/public-api.php:1231
+msgid "Comment retrieved successfully"
+msgstr ""
+
+#: inc/api/public-api.php:1306
+msgid "Email form is closed!"
+msgstr ""
+
+#: inc/api/public-api.php:1331
+msgid "Problem occurred on inserting email to db"
+msgstr ""
+
+#: inc/api/public-api.php:1337
+msgid "New email from video id %d"
+msgstr ""
+
+#: inc/api/public-api.php:1344
+msgid "Problem occurred on sending email to `%s`"
+msgstr ""
+
+#: inc/api/public-api.php:1353
+msgid "Email form submitted successfully"
+msgstr ""
+
+#: inc/api/public-api.php:1415
+#: inc/api/public-api.php:1451
+msgid "Unknown"
+msgstr ""
+
+#: inc/api/public-api.php:1417
+msgid "Windows 10"
+msgstr ""
+
+#: inc/api/public-api.php:1418
+msgid "Windows 8.1"
+msgstr ""
+
+#: inc/api/public-api.php:1419
+msgid "Windows 8"
+msgstr ""
+
+#: inc/api/public-api.php:1420
+msgid "Windows 7"
+msgstr ""
+
+#: inc/api/public-api.php:1421
+msgid "Windows Vista"
+msgstr ""
+
+#: inc/api/public-api.php:1422
+msgid "Windows Server 2003/XP x64"
+msgstr ""
+
+#: inc/api/public-api.php:1423
+#: inc/api/public-api.php:1424
+msgid "Windows XP"
+msgstr ""
+
+#: inc/api/public-api.php:1425
+msgid "Windows 2000"
+msgstr ""
+
+#: inc/api/public-api.php:1426
+msgid "Windows ME"
+msgstr ""
+
+#: inc/api/public-api.php:1427
+msgid "Windows 98"
+msgstr ""
+
+#: inc/api/public-api.php:1428
+msgid "Windows 95"
+msgstr ""
+
+#: inc/api/public-api.php:1429
+msgid "Windows 3.11"
+msgstr ""
+
+#: inc/api/public-api.php:1430
+msgid "Mac OS X"
+msgstr ""
+
+#: inc/api/public-api.php:1431
+msgid "Mac OS 9"
+msgstr ""
+
+#: inc/api/public-api.php:1432
+msgid "Linux"
+msgstr ""
+
+#: inc/api/public-api.php:1433
+msgid "Ubuntu"
+msgstr ""
+
+#: inc/api/public-api.php:1434
+msgid "iPhone"
+msgstr ""
+
+#: inc/api/public-api.php:1435
+msgid "iPod"
+msgstr ""
+
+#: inc/api/public-api.php:1436
+msgid "iPad"
+msgstr ""
+
+#: inc/api/public-api.php:1437
+msgid "Android"
+msgstr ""
+
+#: inc/api/public-api.php:1438
+msgid "BlackBerry"
+msgstr ""
+
+#: inc/api/public-api.php:1439
+#: inc/api/public-api.php:1477
+msgid "Mobile"
+msgstr ""
+
+#: inc/api/public-api.php:1453
+msgid "Internet Explorer"
+msgstr ""
+
+#: inc/api/public-api.php:1454
+msgid "Firefox"
+msgstr ""
+
+#: inc/api/public-api.php:1455
+msgid "Safari"
+msgstr ""
+
+#: inc/api/public-api.php:1456
+msgid "Chrome"
+msgstr ""
+
+#: inc/api/public-api.php:1457
+msgid "Edge"
+msgstr ""
+
+#: inc/api/public-api.php:1458
+msgid "Opera"
+msgstr ""
+
+#: inc/api/public-api.php:1459
+msgid "Netscape"
+msgstr ""
+
+#: inc/api/public-api.php:1460
+msgid "Maxthon"
+msgstr ""
+
+#: inc/api/public-api.php:1461
+msgid "Konqueror"
+msgstr ""
+
+#: inc/api/public-api.php:1462
+msgid "Handheld Browser"
+msgstr ""
+
+#: inc/api/public-api.php:1480
+msgid "Tablet"
+msgstr ""
+
+#: inc/api/public-api.php:1483
+msgid "PC"
+msgstr ""
+
+#: inc/main/menu.php:42
+msgid "Dashboard"
+msgstr ""
+
+#: views/admin/wrapper.php:27
+msgid "Pana Video Player Dashboard"
+msgstr ""
+
+#: assets/admin/script.js:248
+msgid "Problem occurred on getting what`s new"
+msgstr ""
